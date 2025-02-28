@@ -55,7 +55,7 @@ To enhance your **gameplay experience**, Lightning Rush supports two powerful pl
 - **DecentHolograms:** Display holograms above Lightning Rods showing their name and durability.
 
 ## Downloading
-1. Download the Lightning Rush.jar file
+1. Download the Lightning Rush.jar file at [BuiltByBit Page](https://builtbybit.com/resources/lightning-rush.60322/)
 2. Place it in your **/plugins/** folder
 3. Restart your server
 4. Configure settings in **config.yml** (optional)
