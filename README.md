@@ -75,5 +75,6 @@ To enhance your **gameplay experience**, Lightning Rush supports two powerful pl
 ![](https://i.imgur.com/Ncth2g0.png)
 ![](https://i.imgur.com/KOoWUEt.png)
 ![](https://i.imgur.com/5wRWZmd.png)
+![](https://i.imgur.com/BNpqgd2.png)
 ![](https://i.imgur.com/rdSvTMS.png)
 ![](https://i.imgur.com/vzhdYIH.png)
