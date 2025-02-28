@@ -54,6 +54,18 @@ To enhance your **gameplay experience**, Lightning Rush supports two powerful pl
 - **PlaceholdersAPI:** Use dynamic placeholders to easily display in-game stats and information related to the game.
 - **DecentHolograms:** Display holograms above Lightning Rods showing their name and durability.
 
+## Downloading
+1. Download the Lightning Rush.jar file
+2. Place it in your **/plugins/** folder
+3. Restart your server
+4. Configure settings in **config.yml** (optional)
+5. Start playing with **/lrush join**!
+
+## Support & Compatibility
+✔️ Supports **Minecraft 1.19+**\
+✔️ Works with **Paper, Spigot, and Bukkit**\
+📌 Need help? Join our [Discord Server](https://discord.gg/dN6RUzZGgJ)!
+
 ## Showcase
 ![](https://i.imgur.com/KTZ2NKf.png)
 ![](https://i.imgur.com/Bdt6My0.png)
