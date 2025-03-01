@@ -1,5 +1,6 @@
 # Lightning-Rush
-Run from relentless lightning! ⚡ Escape with friends—or abandon your rivals!
+Run from relentless lightning! ⚡ Escape with friends—or abandon your rivals!\
+[Click to go download page](https://builtbybit.com/resources/lightning-rush.60322/)
 
 ## Core Gameplay
 
