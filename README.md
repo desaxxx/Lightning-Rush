@@ -40,7 +40,7 @@ Each Lightning Rod has visual effects to guide players:
 
 ## Game Mechanics:
 - 🕹️ **Game Join**: Players can join the game by using the Game Selector item or through the plugin command.
-- ⚡ **Shockwave Punch:** A rare, electrifying punch that knocks back and slows nearby players during a Lightning Wave.
+- ⚡ **Shockwave Punch:** A rare, electrifying punch that occurs when you punch another player during a Lightning Wave, knocking them back and slowing them down.
 - 🎯 **Target players:** AFK players and those outside the protection of a Lightning Rod will be targeted more frequently during the Lightning Wave. Stay alert and keep moving to avoid being struck!
 - 📂 **Player Data**: Each player has a file that stores their individual game data, keeping track of their progress and statistics.
 
