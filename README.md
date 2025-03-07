@@ -63,7 +63,7 @@ To enhance your **gameplay experience**, Lightning Rush supports two powerful pl
 5. Start playing with **/lrush join**!
 
 ## Support & Compatibility
-✔️ Supports **Minecraft 1.19+**\
+✔️ Supports **Minecraft 1.17.1+**\
 ✔️ Works with **Paper, Spigot, and Bukkit**\
 📌 Need help? Join our [Discord Server](https://discord.gg/dN6RUzZGgJ)!
 
